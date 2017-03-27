@@ -1,78 +1,144 @@
 # Dataset
-Dataset I collected. Usually I have found these dataset in research papers.
+I have found these dataset in research papers.
+
+
+## 1. Image
+
+### Classification & Recognition
+
+* MS COCO
+
+	http://mscoco.org/dataset/#overview
+
+* NVIDIA food Image classification
+
+	https://github.com/corona10/FoodDataSet
+
+* CIFAR-10, CIFAR-100
+
+	https://www.cs.toronto.edu/~kriz/cifar.html
+
+* Large-scale CelebFaces Attributes (CelebA) Dataset
+
+	http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html 
+
+* Street View House Numbers (SVHN)
+
+	http://ufldl.stanford.edu/housenumbers/
+
+* MNIST
+
+	http://yann.lecun.com/exdb/mnist/
+
+
+### Medical
+
+* Lung cancer dataset
+
+	https://luna.grand-challenge.org
+
+	https://www.kaggle.com/c/data-science-bowl-2017
+
+* Brain tumor dataset
+
+	http://braintumorsegmentation.org
+
+* Breast cancer dataset (kaggle)
+
+	https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+
+* The cancer image archive
+
+	http://www.cancerimagingarchive.net
+
+* Mammograpy dataset
+
+	http://marathon.csee.usf.edu/Mammography/Database.html 
 
 
 
-Word2Vec에 쓰인 데이터셋(위키피디아, WMT11 등), 사이트 중간에 데이터셋 있습니다.
-https://code.google.com/archive/p/word2vec/
+## Text
 
-Stanford Sentiment Treebank(SST)
-http://nlp.stanford.edu/sentiment/
+### Machine Translation
 
-MS COCO
-http://mscoco.org/dataset/#overview
+* WMT-15(Machine Translation을 위한 데이터셋으로 나라-나라 쌍의 데이터셋입니다.)
 
-Google sentence compression(Google에서 문장을 정형화 한 데이터입니다.)
-http://storage.googleapis.com/sentencecomp/compression-data.json 
+	http://www.statmt.org/wmt15/translation-task.html
 
-WMT-15(Machine Translation을 위한 데이터셋으로 나라-나라 쌍의 데이터셋입니다.)
-http://www.statmt.org/wmt15/translation-task.html
+* UN parallel Corpus
 
-Parallel corpus for Machine Translation(한글 포함)
-http://semanticweb.kaist.ac.kr/home/index.php/KAIST_Corpus
+	https://conferences.unite.un.org/UNCorpus
 
-UN parallel Corpus
-https://conferences.unite.un.org/UNCorpus
 
-bAbI dataset (Facebook Question Answering)
-https://research.facebook.com/research/babi/
+### Short text
 
-NVIDIA food Image classification
-https://github.com/corona10/FoodDataSet
+* Tweet data, a subset of TREC 2011 microblog track
 
-논문 bibliography 데이터셋
-https://aminer.org/citation
-http://dblp.uni-trier.de/
+	http://trec.nist.gov/data/tweets/
 
-Question/Answering(빈칸추론문제) pairs using CNN/Daily Mail articles
-https://github.com/deepmind/rc-data
+* Title data, including news titles with class labels from some news websites
 
-Stanford Question Answering Dataset
-https://rajpurkar.github.io/SQuAD-explorer/
+	http://www.sogou.com/al
 
-Titanic survivors dataset (기계학습 공부/실습 용으로 좋을 것 같습니다.)
-https://goo.gl/P9CMFY 
 
-Short text dataset
-Tweet data, a subset of TREC 2011 microblog track
-http://trec.nist.gov/data/tweets/
-Title data, including news titles with class labels from some news websites
-http://www.sogou.com/al
+### QA
 
-Large-scale CelebFaces Attributes (CelebA) Dataset
-http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html 
+* bAbI dataset (Facebook Question Answering)
 
-Fast Text pre-trained vector set
-https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md
+	https://research.facebook.com/research/babi/
 
-Lung cancer dataset
-https://luna.grand-challenge.org
-https://www.kaggle.com/c/data-science-bowl-2017
+* Question/Answering(빈칸추론문제) pairs using CNN/Daily Mail articles
 
-Brain tumor dataset
-http://braintumorsegmentation.org
+	https://github.com/deepmind/rc-data
 
-Breast cancer dataset (kaggle)
-https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+* Stanford Question Answering Dataset
 
-The cancer image archive
-http://www.cancerimagingarchive.net
+	https://rajpurkar.github.io/SQuAD-explorer/
 
-Mammograpy dataset
-http://marathon.csee.usf.edu/Mammography/Database.html 
 
-Obama’s political speeches
-https://github.com/samim23/obama-rnn 
 
-Nottingham music dataset
-https://www-labs.iro.umontreal.ca/~lisa/deep/data/
+
+### Word Embedding
+
+* Word2Vec에 쓰인 데이터셋(위키피디아, WMT11 등)
+	https://code.google.com/archive/p/word2vec/
+
+* Fast Text pre-trained vector set
+
+	https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md
+
+
+### Sentiment Analysis
+
+* Stanford Sentiment Treebank(SST)
+
+	http://nlp.stanford.edu/sentiment/
+
+
+## Sound
+
+* Nottingham music dataset
+
+	https://www-labs.iro.umontreal.ca/~lisa/deep/data/
+	
+
+## ETC.
+
+* Google sentence compression(Google에서 문장을 정형화 한 데이터입니다.)
+
+	http://storage.googleapis.com/sentencecomp/compression-data.json 
+
+* 논문 bibliography 데이터셋
+
+	https://aminer.org/citation
+
+	http://dblp.uni-trier.de/
+
+* Titanic survivors dataset
+
+	https://goo.gl/P9CMFY 
+
+* Obama’s political speeches
+
+	https://github.com/samim23/obama-rnn 
+
