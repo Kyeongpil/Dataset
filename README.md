@@ -142,3 +142,8 @@ I have found these dataset in research papers.
 
 	https://github.com/samim23/obama-rnn 
 
+* Coil-20
+
+	http://www.cs.columbia.edu/CAVE/software/softlib/coil-20.php
+
+
