@@ -30,6 +30,11 @@ I have found these dataset in research papers.
 
 	http://yann.lecun.com/exdb/mnist/
 
+* Facial Database
+
+	http://www.face-rec.org/databases/
+	
+
 
 ### Medical
 
