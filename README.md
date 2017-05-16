@@ -105,6 +105,13 @@ I have found these dataset in research papers.
 
 	https://rajpurkar.github.io/SQuAD-explorer/
 
+* Visual Question Answering 
+
+	* CLEVR: A Diagnostic Dataset for 
+Compositional Language and Elementary Visual Reasoning
+		
+		http://cs.stanford.edu/people/jcjohns/clevr/
+
 
 
 
