@@ -2,7 +2,8 @@
 I have found these dataset in research papers.
 
 
-## 1. Image
+
+## Image
 
 ### Classification & Recognition
 
@@ -66,7 +67,6 @@ I have found these dataset in research papers.
 
 
 
-
 ## Text
 
 ### Machine Translation
@@ -113,8 +113,6 @@ Compositional Language and Elementary Visual Reasoning
 		<http://cs.stanford.edu/people/jcjohns/clevr/>
 
 
-
-
 ### Word Embedding
 
 * Word2Vec에 쓰인 데이터셋(위키피디아, WMT11 등)
@@ -132,21 +130,57 @@ Compositional Language and Elementary Visual Reasoning
 	<http://nlp.stanford.edu/sentiment/>
 
 
+
 ## Sound
 
 * Nottingham music dataset
 
 	<https://www-labs.iro.umontreal.ca/~lisa/deep/data/>
 
+
+
 ## Knowledge Base
 
 * Freebase
 
 	<https://datahub.io/ko_KR/dataset/freebase>
+
+* Wordnet
+
+	<https://wordnet.princeton.edu/>
 	
 * Microsoft Concept Graph
 
 	<https://concept.msra.cn/Home/Download>
+
+* DBPedia Dataset
+
+	The DBpedia data set uses a large multi-domain ontology which has been derived from Wikipedia as well as  localized versions of DBpedia in more than 100 languages. 
+
+	<http://wiki.dbpedia.org/services-resources/datasets/dbpedia-datasets>
+
+
+* Yago
+
+	YAGO3 is a huge semantic knowledge base, derived from Wikipedia WordNet and GeoNames.
+
+	<https://datahub.io/ko_KR/dataset/yago>
+
+
+
+## Pre-trained Model
+* Word2Vect
+	
+	<https://code.google.com/archive/p/word2vec/>
+
+* GloVe
+
+	<https://nlp.stanford.edu/projects/glove/>
+
+* FastText
+
+	<https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md>
+
 
 
 ## ETC.
@@ -172,5 +206,4 @@ Compositional Language and Elementary Visual Reasoning
 * Coil-20
 
 	<http://www.cs.columbia.edu/CAVE/software/softlib/coil-20.php>
-
 
