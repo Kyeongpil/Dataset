@@ -5,7 +5,7 @@ I have found these dataset in research papers.
 
 ## Image
 
-### Classification & Recognition
+### Classification or Recognition or Generative
 
 * MS COCO
 
@@ -34,6 +34,14 @@ I have found these dataset in research papers.
 * Facial Database
 
 	<http://www.face-rec.org/databases/>
+
+* Simple Vector Drawing Datasets
+
+	<https://github.com/hardmaru/sketch-rnn-datasets>
+
+* Places2 (공간 사진, 정보 데이터)
+
+	<http://places2.csail.mit.edu/download.html>
 
 
 
@@ -71,9 +79,15 @@ I have found these dataset in research papers.
 
 ### Machine Translation
 
-* WMT-15(Machine Translation을 위한 데이터셋으로 나라-나라 쌍의 데이터셋입니다.)
+* StatMT(Machine Translation, summarization 등의 태스크를 위한 데이터셋으로 나라-나라 쌍의 데이터셋입니다.)
+
+	<http://www.statmt.org/wmt14/translation-task.html>
 
 	<http://www.statmt.org/wmt15/translation-task.html>
+	
+	<http://www.statmt.org/wmt16/translation-task.html>
+	
+	<http://www.statmt.org/wmt17/translation-task.html>
 
 * UN parallel Corpus
 
