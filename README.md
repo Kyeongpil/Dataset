@@ -43,6 +43,10 @@ I have found these dataset in research papers.
 
 	<http://places2.csail.mit.edu/download.html>
 
+* Yelp dataset (식당 정보, 사진)
+
+	<https://www.yelp.com/dataset_challenge>
+
 
 
 ### Medical
@@ -73,6 +77,21 @@ I have found these dataset in research papers.
 
 	<http://www.iab-rubric.org/resources.html>
 
+
+
+## Video
+
+* YouTube-BoundingBoxes Dataset
+
+	<https://research.google.com/youtube-bb/index.html>
+
+* Youtube-8M Dataset
+
+	<https://research.google.com/youtube8m/>
+
+* The Kinetics Human Action Video Dataset
+
+	<https://deepmind.com/research/open-source/open-source-datasets/kinetics/>
 
 
 ## Text
@@ -151,6 +170,10 @@ Compositional Language and Elementary Visual Reasoning
 
 	<https://www-labs.iro.umontreal.ca/~lisa/deep/data/>
 
+* A large-scale dataset of manually annotated audio events (Google research)
+
+	<https://research.google.com/audioset/>
+
 
 
 ## Knowledge Base
@@ -220,4 +243,8 @@ Compositional Language and Elementary Visual Reasoning
 * Coil-20
 
 	<http://www.cs.columbia.edu/CAVE/software/softlib/coil-20.php>
+
+* Image to Latex (수식 이미지를 latex 코드로 만드는 데이터셋입니다.)
+
+	<https://zenodo.org/record/56198#.WTpQ73XyhPN>
 
