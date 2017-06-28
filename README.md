@@ -248,3 +248,6 @@ Compositional Language and Elementary Visual Reasoning
 
 	<https://zenodo.org/record/56198#.WTpQ73XyhPN>
 
+* Yahoo Finance dataset
+
+	<https://finance.yahoo.com/quote/GOOG/history?ltr=1>
