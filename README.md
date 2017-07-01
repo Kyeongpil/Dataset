@@ -219,6 +219,12 @@ Compositional Language and Elementary Visual Reasoning
 	<https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md>
 
 
+## 국내 데이터셋
+* SKT Bigdata hub
+
+	<https://www.bigdatahub.co.kr/index.do>
+
+
 
 ## ETC.
 
