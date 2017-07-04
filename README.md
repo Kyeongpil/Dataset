@@ -112,6 +112,14 @@ I have found these dataset in research papers.
 
 	<https://conferences.unite.un.org/UNCorpus>
 
+* IWSLT Dataset (including TED Translation)
+
+	<https://sites.google.com/site/iwsltevaluation2016/>
+
+* The Stacks Project(대수기하학 책의 원본과 latex 코드 pair set?)
+
+	<http://stacks.math.columbia.edu/>
+
 
 ### Short text
 
@@ -257,3 +265,7 @@ Compositional Language and Elementary Visual Reasoning
 * Yahoo Finance dataset
 
 	<https://finance.yahoo.com/quote/GOOG/history?ltr=1>
+
+* Linux code
+
+	<https://github.com/torvalds/linux>
