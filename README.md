@@ -269,3 +269,13 @@ Compositional Language and Elementary Visual Reasoning
 * Linux code
 
 	<https://github.com/torvalds/linux>
+
+* NYC Taxi dataset
+	
+	<http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml>
+
+* US Census dataset
+
+	<https://www.census.gov/topics/income-poverty/income/data/datasets.html>
+
+
