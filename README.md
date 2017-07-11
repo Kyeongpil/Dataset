@@ -7,6 +7,10 @@ I have found these dataset in research papers.
 
 ### Classification or Recognition or Generative
 
+* Coil-20
+
+	<http://www.cs.columbia.edu/CAVE/software/softlib/coil-20.php>
+
 * MS COCO
 
 	<http://mscoco.org/dataset/#overview>
@@ -47,6 +51,14 @@ I have found these dataset in research papers.
 
 	<https://www.yelp.com/dataset_challenge>
 
+* DeepFashion
+
+	<http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html>
+
+* Image to Latex (수식 이미지를 latex 코드로 만드는 데이터셋입니다.)
+
+	<https://zenodo.org/record/56198#.WTpQ73XyhPN>
+
 
 
 ### Medical
@@ -77,6 +89,10 @@ I have found these dataset in research papers.
 
 	<http://www.iab-rubric.org/resources.html>
 
+* CAMELYON 16 - metatstasis detection in lymph node
+
+	<https://camelyon16.grand-challenge.org/>
+
 
 
 ## Video
@@ -92,6 +108,7 @@ I have found these dataset in research papers.
 * The Kinetics Human Action Video Dataset
 
 	<https://deepmind.com/research/open-source/open-source-datasets/kinetics/>
+
 
 
 ## Text
@@ -120,6 +137,10 @@ I have found these dataset in research papers.
 
 	<http://stacks.math.columbia.edu/>
 
+* Google sentence compression(Google에서 문장을 정형화 한 데이터입니다.)
+
+	<http://storage.googleapis.com/sentencecomp/compression-data.json>
+
 
 ### Short text
 
@@ -146,12 +167,9 @@ I have found these dataset in research papers.
 
 	<https://rajpurkar.github.io/SQuAD-explorer/>
 
-* Visual Question Answering 
-
-	* CLEVR: A Diagnostic Dataset for 
-Compositional Language and Elementary Visual Reasoning
+* CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning
 		
-		<http://cs.stanford.edu/people/jcjohns/clevr/>
+	<http://cs.stanford.edu/people/jcjohns/clevr/>
 
 
 ### Word Embedding
@@ -213,7 +231,20 @@ Compositional Language and Elementary Visual Reasoning
 
 
 
+## Social Networks & Recomendationdation
+
+* AMiner - Datasets for social network Analysis
+
+	<https://cn.aminer.org/data>
+
+* Netflix Prize Data Set
+
+	<http://academictorrents.com/details/9b13183dc4d60676b773c9e2cd6de5e5542cee9a>
+
+
+
 ## Pre-trained Model
+
 * Word2Vect
 	
 	<https://code.google.com/archive/p/word2vec/>
@@ -227,7 +258,9 @@ Compositional Language and Elementary Visual Reasoning
 	<https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md>
 
 
+
 ## 국내 데이터셋
+
 * SKT Bigdata hub
 
 	<https://www.bigdatahub.co.kr/index.do>
@@ -235,10 +268,6 @@ Compositional Language and Elementary Visual Reasoning
 
 
 ## ETC.
-
-* Google sentence compression(Google에서 문장을 정형화 한 데이터입니다.)
-
-	<http://storage.googleapis.com/sentencecomp/compression-data.json>
 
 * 논문 bibliography 데이터셋
 
@@ -253,14 +282,6 @@ Compositional Language and Elementary Visual Reasoning
 * Obama’s political speeches
 
 	<https://github.com/samim23/obama-rnn>
-
-* Coil-20
-
-	<http://www.cs.columbia.edu/CAVE/software/softlib/coil-20.php>
-
-* Image to Latex (수식 이미지를 latex 코드로 만드는 데이터셋입니다.)
-
-	<https://zenodo.org/record/56198#.WTpQ73XyhPN>
 
 * Yahoo Finance dataset
 
@@ -277,5 +298,3 @@ Compositional Language and Elementary Visual Reasoning
 * US Census dataset
 
 	<https://www.census.gov/topics/income-poverty/income/data/datasets.html>
-
-
