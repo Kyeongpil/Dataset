@@ -59,6 +59,10 @@ I have found these dataset in research papers.
 
 	<https://zenodo.org/record/56198#.WTpQ73XyhPN>
 
+* NIST Dataset(Fingerprint, Mugshot, OCR)
+
+	<https://www.nist.gov/srd/nist-special-database-4>
+
 
 
 ### Medical
