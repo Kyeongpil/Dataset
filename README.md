@@ -63,6 +63,10 @@ I have found these dataset in research papers.
 
 	<https://www.nist.gov/srd/nist-special-database-4>
 
+* Biometics ideal test dataset(Iris, Fingerprint, Face, palmprint, handwriting etc.)
+
+	<http://biometrics.idealtest.org/index.jsp>
+
 
 
 ### Medical
@@ -145,6 +149,10 @@ I have found these dataset in research papers.
 
 	<http://storage.googleapis.com/sentencecomp/compression-data.json>
 
+* 조선왕조실록(한글/한문 번역)
+
+	<http://sillok.history.go.kr/main/main.do>
+
 
 ### Short text
 
@@ -174,6 +182,10 @@ I have found these dataset in research papers.
 * CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning
 		
 	<http://cs.stanford.edu/people/jcjohns/clevr/>
+
+* WikiReading dataset
+
+	<https://github.com/google-research-datasets/wiki-reading>
 
 
 ### Word Embedding
