@@ -63,7 +63,7 @@ I have found these dataset in research papers.
 
 	<https://www.nist.gov/srd/nist-special-database-4>
 
-* Biometics ideal test dataset(Iris, Fingerprint, Face, palmprint, handwriting etc.)
+* Biometics ideal test dataset(Iris, Fingerprint, Face, palmprint, handwriting etc. - 로그인 필요!)
 
 	<http://biometrics.idealtest.org/index.jsp>
 
@@ -257,6 +257,23 @@ I have found these dataset in research papers.
 
 	<http://academictorrents.com/details/9b13183dc4d60676b773c9e2cd6de5e5542cee9a>
 
+* 논문 bibliography 데이터셋, Author Citation Networks
+
+	<https://aminer.org/citation>
+
+	<http://dblp.uni-trier.de/>
+
+	<https://aminer.org/citation>
+
+	<http://www.cs.cornell.edu/projects/kddcup/datasets.html>
+
+* Politics sub redit
+
+	<http://snap.stanford.edu/data/politics_subreddit.tar.gz>
+
+* Amazon dataset
+
+	<http://snap.stanford.edu/data/amazon-meta.html>
 
 
 ## Pre-trained Model
@@ -284,12 +301,6 @@ I have found these dataset in research papers.
 
 
 ## ETC.
-
-* 논문 bibliography 데이터셋
-
-	<https://aminer.org/citation>
-
-	<http://dblp.uni-trier.de/>
 
 * Titanic survivors dataset
 
