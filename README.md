@@ -275,6 +275,18 @@ I have found these dataset in research papers.
 
 	<http://snap.stanford.edu/data/amazon-meta.html>
 
+* Twitter Spammer network
+
+	<http://twitter.mpi-sws.org/spam/>
+
+* Twitter tweets
+
+	<http://snap.stanford.edu/data/twitter7.html>
+
+* Online reviews
+
+	<http://snap.stanford.edu/data/#reviews>
+
 
 ## Pre-trained Model
 
