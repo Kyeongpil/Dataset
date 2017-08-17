@@ -153,6 +153,15 @@ I have found these dataset in research papers.
 
 	<http://sillok.history.go.kr/main/main.do>
 
+### Categorical & Topic modeling
+
+* 20 Newsgroups
+
+	<http://qwone.com/~jason/20Newsgroups/>
+
+* Reuter dataset
+
+	<https://archive.ics.uci.edu/ml/datasets/reuters-21578+text+categorization+collection>
 
 ### Short text
 
