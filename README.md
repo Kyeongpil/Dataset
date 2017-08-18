@@ -101,6 +101,9 @@ I have found these dataset in research papers.
 
 	<https://camelyon16.grand-challenge.org/>
 
+* CAMELYON17 Dataset
+	<https://camelyon17.grand-challenge.org/>
+
 
 
 ## Video
@@ -253,6 +256,10 @@ I have found these dataset in research papers.
 	YAGO3 is a huge semantic knowledge base, derived from Wikipedia WordNet and GeoNames.
 
 	<https://datahub.io/ko_KR/dataset/yago>
+
+* Google Knowledge graph API
+
+	<https://developers.google.com/knowledge-graph/>
 
 
 
