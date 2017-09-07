@@ -67,6 +67,10 @@ I have found these dataset in research papers.
 
 	<http://biometrics.idealtest.org/index.jsp>
 
+* PASCAL 2012 Dataset (Classification & Detection)
+
+	<http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html#data>
+
 
 
 ### Medical
