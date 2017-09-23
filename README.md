@@ -39,6 +39,11 @@ I have found these dataset in research papers.
 
 	<http://www.face-rec.org/databases/>
 
+* Labeled Faces in the Wild
+
+	<http://vis-www.cs.umass.edu/lfw/#download>
+
+
 * Simple Vector Drawing Datasets
 
 	<https://github.com/hardmaru/sketch-rnn-datasets>
