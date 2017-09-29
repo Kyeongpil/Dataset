@@ -76,6 +76,10 @@ I have found these dataset in research papers.
 
 	<http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html#data>
 
+* Flickr Image Dataset
+
+	<http://www.robots.ox.ac.uk/~vgg/data/oxbuildings/flickr100k.html>
+
 
 
 ### Medical
@@ -312,6 +316,10 @@ I have found these dataset in research papers.
 
 	<http://snap.stanford.edu/data/#reviews>
 
+* Rumor Detection dataset
+
+	<https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BFGAVZ>
+
 
 ## Pre-trained Model
 
@@ -327,6 +335,12 @@ I have found these dataset in research papers.
 
 	<https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md>
 
+
+## Dataset Repo
+
+* Havard Dataverse
+
+	<https://dataverse.harvard.edu/>
 
 
 ## 국내 데이터셋
