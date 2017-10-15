@@ -229,6 +229,10 @@ I have found these dataset in research papers.
 
 	<http://nlp.stanford.edu/sentiment/>
 
+* Multi-Domain Sentiment Dataset
+
+	<http://www.cs.jhu.edu/~mdredze/datasets/sentiment/>
+
 
 
 ## Sound
@@ -240,6 +244,10 @@ I have found these dataset in research papers.
 * A large-scale dataset of manually annotated audio events (Google research)
 
 	<https://research.google.com/audioset/>
+
+* Speech Command Dataset
+
+	<https://research.googleblog.com/2017/08/launching-speech-commands-dataset.html>
 
 
 
