@@ -134,6 +134,10 @@ I have found these dataset in research papers.
 	<https://deepmind.com/research/open-source/open-source-datasets/kinetics/>
 
 
+* Announcing AVA: A Finely Labeled Video Dataset for Human Action Understanding
+
+	<https://research.googleblog.com/2017/10/announcing-ava-finely-labeled-video.html?m=1>
+
 
 ## Text
 
@@ -211,6 +215,10 @@ I have found these dataset in research papers.
 * WikiReading dataset
 
 	<https://github.com/google-research-datasets/wiki-reading>
+
+* SEMPRE: Semantic Parsing with Execution
+
+	<https://nlp.stanford.edu/software/sempre/>
 
 
 ### Word Embedding
