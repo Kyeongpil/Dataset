@@ -241,6 +241,10 @@ I have found these dataset in research papers.
 
 	<http://www.cs.jhu.edu/~mdredze/datasets/sentiment/>
 
+* Visual sentiment ontology
+
+	<http://www.ee.columbia.edu/ln/dvmm/vso/download/flickr_dataset.html>
+
 
 
 ## Sound
