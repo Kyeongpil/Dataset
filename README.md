@@ -194,7 +194,7 @@ I have found these dataset in research papers.
 	<http://www.sogou.com/al>
 
 
-### QA
+### QA & Dialogue
 
 * bAbI dataset (Facebook Question Answering)
 
@@ -220,6 +220,10 @@ I have found these dataset in research papers.
 
 	<https://nlp.stanford.edu/software/sempre/>
 
+* Dialogue system datasets
+
+	<https://breakend.github.io/DialogDatasets/>
+
 
 ### Word Embedding
 
@@ -244,6 +248,10 @@ I have found these dataset in research papers.
 * Visual sentiment ontology
 
 	<http://www.ee.columbia.edu/ln/dvmm/vso/download/flickr_dataset.html>
+
+* Radboud Face Database (rbfd)
+
+	<http://www.socsci.ru.nl:8180/RaFD2/RaFD?p=main>
 
 
 
