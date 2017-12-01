@@ -194,6 +194,13 @@ I have found these dataset in research papers.
 	<http://www.sogou.com/al>
 
 
+### Paraphrase
+
+* Paraphrase database
+
+	<http://paraphrase.org/#/download>
+
+
 ### QA & Dialogue
 
 * bAbI dataset (Facebook Question Answering)
