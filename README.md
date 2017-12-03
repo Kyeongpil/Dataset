@@ -276,6 +276,10 @@ I have found these dataset in research papers.
 
 	<https://research.googleblog.com/2017/08/launching-speech-commands-dataset.html>
 
+* Mozilla DeepSpeech
+
+	<https://github.com/mozilla/DeepSpeech>
+
 
 
 ## Knowledge Base
