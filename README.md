@@ -262,6 +262,14 @@ I have found these dataset in research papers.
 
 
 
+### Raw text
+
+* Common Crawl dataset
+
+	<http://commoncrawl.org/the-data/>
+
+
+
 ## Sound
 
 * Nottingham music dataset
