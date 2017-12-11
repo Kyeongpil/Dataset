@@ -183,6 +183,10 @@ I have found these dataset in research papers.
 
 	<https://archive.ics.uci.edu/ml/datasets/reuters-21578+text+categorization+collection>
 
+* SNLI(Stanford Natural Language Inference) dataset
+
+	<https://nlp.stanford.edu/projects/snli/>
+
 ### Short text
 
 * Tweet data, a subset of TREC 2011 microblog track
