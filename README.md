@@ -371,6 +371,14 @@ I have found these dataset in research papers.
 
 	<https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BFGAVZ>
 
+* MovieLens
+
+	<https://grouplens.org/datasets/movielens/>
+
+* CiteULike
+
+	<http://www.citeulike.org/faq/data.adp>
+
 
 ## Pre-trained Model
 
