@@ -379,6 +379,18 @@ I have found these dataset in research papers.
 
 	<http://www.citeulike.org/faq/data.adp>
 
+* LastFM - Music, network dataset
+
+	<https://www.upf.edu/web/mtg/lastfm360k>
+
+* Delicious Bookmarks (with other datasets)
+
+	<https://grouplens.org/datasets/hetrec-2011/>
+
+* Check-in dataset
+
+	<https://sites.google.com/site/yangdingqi/home/foursquare-dataset>
+
 
 ## Pre-trained Model
 
