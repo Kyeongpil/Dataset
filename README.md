@@ -80,6 +80,10 @@ I have found these dataset in research papers.
 
 	<http://www.robots.ox.ac.uk/~vgg/data/oxbuildings/flickr100k.html>
 
+* Stanford dogs dataset
+
+	<http://vision.stanford.edu/aditya86/ImageNetDogs/>
+
 
 
 ### Medical
