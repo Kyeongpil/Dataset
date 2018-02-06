@@ -201,6 +201,10 @@ I have found these dataset in research papers.
 
 	<http://www.sogou.com/al>
 
+* Italia earthquake twitter dataset
+
+	<https://www.kaggle.com/blackecho/italy-earthquakes>
+
 
 ### Paraphrase
 
