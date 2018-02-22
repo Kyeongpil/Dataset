@@ -87,6 +87,10 @@ I have found these dataset in research papers.
 
 	<http://www.vision.caltech.edu/visipedia/CUB-200-2011.html>
 
+* Facial beauty score dataset
+
+	<https://github.com/HCIILAB/SCUT-FBP5500-Database-Release>
+
 
 ### Medical
 
