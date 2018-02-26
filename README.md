@@ -405,6 +405,10 @@ I have found these dataset in research papers.
 
 	<https://sites.google.com/site/yangdingqi/home/foursquare-dataset>
 
+* social event detection 2014 dataset
+
+	<http://mklab.iti.gr/project/sed2014>
+
 
 ## Pre-trained Model
 
