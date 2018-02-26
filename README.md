@@ -409,6 +409,12 @@ I have found these dataset in research papers.
 
 	<http://mklab.iti.gr/project/sed2014>
 
+* fake news dataset
+
+	<https://www.kaggle.com/mrisdal/fake-news>
+
+	<https://github.com/BuzzFeedNews/2016-10-facebook-fact-check>
+
 
 ## Pre-trained Model
 
