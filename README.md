@@ -91,6 +91,10 @@ I have found these dataset in research papers.
 
 	<https://github.com/HCIILAB/SCUT-FBP5500-Database-Release>
 
+* Tumblr GIF dataset
+
+	<https://www.kaggle.com/raingo/tumblr-gif-description-dataset>
+
 
 ### Medical
 
