@@ -95,6 +95,10 @@ I have found these dataset in research papers.
 
 	<https://www.kaggle.com/raingo/tumblr-gif-description-dataset>
 
+* Totally looks like dataset
+
+	<https://sites.google.com/view/totally-looks-like-dataset>
+
 
 ### Medical
 
