@@ -424,11 +424,17 @@ I have found these dataset in research papers.
 
 ## Fake news dataset
 
+* Kaggle fake news dataset
+
 	<https://www.kaggle.com/mrisdal/fake-news>
+
+* Facebook fact check
 
 	<https://github.com/BuzzFeedNews/2016-10-facebook-fact-check>
 
-	https://github.com/KaiDMML/FakeNewsNet
+* FakeNewsNet dataset
+
+	<https://github.com/KaiDMML/FakeNewsNet>
 
 
 ## Pre-trained Model
