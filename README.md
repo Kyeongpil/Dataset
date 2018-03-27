@@ -436,6 +436,10 @@ I have found these dataset in research papers.
 
 	<https://github.com/KaiDMML/FakeNewsNet>
 
+* FakeNews corpus
+
+	<https://github.com/several27/FakeNewsCorpus>
+
 
 ## Pre-trained Model
 
