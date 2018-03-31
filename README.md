@@ -99,6 +99,14 @@ I have found these dataset in research papers.
 
 	<https://sites.google.com/view/totally-looks-like-dataset>
 
+* CAISA WebFace databaset
+
+	<http://www.cbsr.ia.ac.cn/english/CASIA-WebFace-Database.html>
+
+* Labeled Faces in the Wild Home
+
+	<http://vis-www.cs.umass.edu/lfw/>
+
 
 ### Medical
 
