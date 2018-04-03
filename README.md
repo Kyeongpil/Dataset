@@ -482,6 +482,10 @@ I have found these dataset in research papers.
 
 	<https://www.bigdatahub.co.kr/index.do>
 
+* ETRI 말뭉치
+
+	<http://aiopen.etri.re.kr/service_corpus.php>
+
 
 
 ## ETC.
