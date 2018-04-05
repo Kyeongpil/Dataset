@@ -453,6 +453,10 @@ I have found these dataset in research papers.
 
 	<https://github.com/several27/FakeNewsCorpus>
 
+* Liar dataset
+
+	<https://www.cs.ucsb.edu/~william/data/liar_dataset.zip>
+
 
 ## Pre-trained Model
 
