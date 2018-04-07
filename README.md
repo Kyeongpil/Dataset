@@ -274,6 +274,10 @@ I have found these dataset in research papers.
 
 	<https://breakend.github.io/DialogDatasets/>
 
+* WikiSQL dataset
+
+	<https://github.com/salesforce/WikiSQL>
+
 
 ### Word Embedding
 
