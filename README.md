@@ -281,6 +281,10 @@ I have found these dataset in research papers.
 
 	<https://github.com/salesforce/WikiSQL>
 
+* SynthText dataset
+
+	<http://www.robots.ox.ac.uk/%7Evgg/data/scenetext/>
+
 
 ### Word Embedding
 
