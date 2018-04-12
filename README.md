@@ -111,7 +111,10 @@ I have found these dataset in research papers.
 
 	<https://bam-dataset.org/#explore>
 
-* 
+* Handwriting databaset
+
+	<http://www.fki.inf.unibe.ch/databases/iam-handwriting-database>
+
 
 ### Medical
 
