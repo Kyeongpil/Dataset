@@ -285,6 +285,10 @@ I have found these dataset in research papers.
 
 	<http://www.robots.ox.ac.uk/%7Evgg/data/scenetext/>
 
+* Cornell Movie dialogue corpus
+
+	<http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html>
+
 
 ### Word Embedding
 
