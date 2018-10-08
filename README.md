@@ -115,6 +115,10 @@ I have found these dataset in research papers.
 
 	<http://www.fki.inf.unibe.ch/databases/iam-handwriting-database>
 
+* ImageCLEF dataset - Cross language image retrieval task
+
+	<https://www.imageclef.org/>
+
 
 ### Medical
 
