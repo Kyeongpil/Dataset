@@ -10,6 +10,10 @@ I have found these dataset in research papers.
 
 	<http://www.cs.columbia.edu/CAVE/software/softlib/coil-20.php>
 
+* STL-10: Self-taught learning
+
+	<https://cs.stanford.edu/~acoates/stl10/>
+
 * MS COCO
 
 	<http://mscoco.org/dataset/#overview>
