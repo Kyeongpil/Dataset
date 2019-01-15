@@ -123,6 +123,10 @@ I have found these dataset in research papers.
 
 	<https://www.imageclef.org/>
 
+* Yale-b - The extended Yale face database
+
+	<http://vision.ucsd.edu/~leekc/ExtYaleDatabase/ExtYaleB.html>
+
 
 ### Medical
 
