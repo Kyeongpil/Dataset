@@ -135,6 +135,9 @@ I have found these dataset in research papers.
 * Visual Genome dataset
   http://visualgenome.org/
 
+* Oxford-102 dataset (Flower)
+  http://www.robots.ox.ac.uk/~vgg/data/flowers/102/
+
   
 
 
