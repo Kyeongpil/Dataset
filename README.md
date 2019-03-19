@@ -329,19 +329,22 @@ I have found these dataset in research papers.
 
 * Stanford Sentiment Treebank(SST)
 
-	<http://nlp.stanford.edu/sentiment/>
+  <http://nlp.stanford.edu/sentiment/>
 
 * Multi-Domain Sentiment Dataset
 
-	<http://www.cs.jhu.edu/~mdredze/datasets/sentiment/>
+  <http://www.cs.jhu.edu/~mdredze/datasets/sentiment/>
 
 * Visual sentiment ontology
 
-	<http://www.ee.columbia.edu/ln/dvmm/vso/download/flickr_dataset.html>
+  <http://www.ee.columbia.edu/ln/dvmm/vso/download/flickr_dataset.html>
 
 * Radboud Face Database (rbfd)
 
-	<http://www.socsci.ru.nl:8180/RaFD2/RaFD?p=main>
+  <http://www.socsci.ru.nl:8180/RaFD2/RaFD?p=main>
+
+* Aspect sentiment analysis with aspect category
+  https://github.com/hsqmlzno1/MGAN
 
 
 
