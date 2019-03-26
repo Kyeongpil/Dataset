@@ -18,6 +18,10 @@ I have found these dataset in research papers.
 
 	<http://mscoco.org/dataset/#overview>
 
+* Google Conceptual Caption dataset
+
+	<https://ai.google.com/research/ConceptualCaptions/download>
+
 * NVIDIA food Image classification
 
 	<https://github.com/corona10/FoodDataSet>
