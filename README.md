@@ -447,6 +447,8 @@ I have found these dataset in research papers.
 
 	<http://snap.stanford.edu/data/amazon-meta.html>
 
+	<http://jmcauley.ucsd.edu/data/amazon/>
+
 * Twitter Spammer network
 
 	<http://twitter.mpi-sws.org/spam/>
