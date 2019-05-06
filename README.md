@@ -83,6 +83,8 @@ I have found these dataset in research papers.
 
 	<http://www.robots.ox.ac.uk/~vgg/data/oxbuildings/flickr100k.html>
 
+	<http://hockenmaier.cs.illinois.edu/DenotationGraph/>
+
 * Stanford dogs dataset
 
 	<http://vision.stanford.edu/aditya86/ImageNetDogs/>
