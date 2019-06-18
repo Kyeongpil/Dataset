@@ -18,6 +18,11 @@ I have found these dataset in research papers.
 
 	<http://mscoco.org/dataset/#overview>
 
+
+* US Post Office Zip Code Data 
+
+	<https://web.stanford.edu/~hastie/StatLearnSparsity_files/DATA/zipcode.html>
+
 * Google Conceptual Caption dataset
 
 	<https://ai.google.com/research/ConceptualCaptions/download>
