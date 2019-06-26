@@ -148,11 +148,16 @@ I have found these dataset in research papers.
   [Annotations](https://cs.stanford.edu/people/ranjaykrishna/vrd/)
 
 * Visual Genome dataset
-  http://visualgenome.org/
+  
+  <http://visualgenome.org/>
 
 * Oxford-102 dataset (Flower)
-  http://www.robots.ox.ac.uk/~vgg/data/flowers/102/
+  
+  <http://www.robots.ox.ac.uk/~vgg/data/flowers/102/>
 
+* UCSD Pedestrian dataset (video anomaly detection)
+
+	<http://www.svcl.ucsd.edu/projects/anomaly/dataset.htm>
   
 
 
