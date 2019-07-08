@@ -18,6 +18,11 @@ I have found these dataset in research papers.
 
 	<http://mscoco.org/dataset/#overview>
 
+
+* US Post Office Zip Code Data 
+
+	<https://web.stanford.edu/~hastie/StatLearnSparsity_files/DATA/zipcode.html>
+
 * Google Conceptual Caption dataset
 
 	<https://ai.google.com/research/ConceptualCaptions/download>
@@ -91,6 +96,8 @@ I have found these dataset in research papers.
 
   <http://www.robots.ox.ac.uk/~vgg/data/oxbuildings/flickr100k.html>
 
+	<http://hockenmaier.cs.illinois.edu/DenotationGraph/>
+
 * Stanford dogs dataset
 
   <http://vision.stanford.edu/aditya86/ImageNetDogs/>
@@ -141,11 +148,16 @@ I have found these dataset in research papers.
   [Annotations](https://cs.stanford.edu/people/ranjaykrishna/vrd/)
 
 * Visual Genome dataset
-  http://visualgenome.org/
+  
+  <http://visualgenome.org/>
 
 * Oxford-102 dataset (Flower)
-  http://www.robots.ox.ac.uk/~vgg/data/flowers/102/
+  
+  <http://www.robots.ox.ac.uk/~vgg/data/flowers/102/>
 
+* UCSD Pedestrian dataset (video anomaly detection)
+
+	<http://www.svcl.ucsd.edu/projects/anomaly/dataset.htm>
   
 
 
@@ -458,6 +470,8 @@ I have found these dataset in research papers.
 * Amazon dataset
 
 	<http://snap.stanford.edu/data/amazon-meta.html>
+
+	<http://jmcauley.ucsd.edu/data/amazon/>
 
 * Twitter Spammer network
 
