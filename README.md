@@ -308,6 +308,10 @@ I have found these dataset in research papers.
 
 	<https://rajpurkar.github.io/SQuAD-explorer/>
 
+* Korean Squad dataset
+
+	<https://korquad.github.io/>
+
 * RACE Reading Comprehension datraset
 
 	<http://www.qizhexie.com/data/RACE_leaderboard>
