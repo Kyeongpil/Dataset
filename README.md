@@ -294,6 +294,20 @@ I have found these dataset in research papers.
 
 	<https://rajpurkar.github.io/SQuAD-explorer/>
 
+	<https://rajpurkar.github.io/SQuAD-explorer/>
+
+* RACE Reading Comprehension datraset
+
+	<http://www.qizhexie.com/data/RACE_leaderboard>
+
+* GLUE (General Language Understanding Evaluation) benchmark dataset
+
+	<https://gluebenchmark.com/>
+
+* ClueWeb12 dataset (information retrieval)
+
+	<https://lemurproject.org/clueweb12/>
+
 * CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning
 		
 	<http://cs.stanford.edu/people/jcjohns/clevr/>
