@@ -306,8 +306,6 @@ I have found these dataset in research papers.
 
 	<https://rajpurkar.github.io/SQuAD-explorer/>
 
-	<https://rajpurkar.github.io/SQuAD-explorer/>
-
 * Korean Squad dataset
 
 	<https://korquad.github.io/>
