@@ -256,6 +256,11 @@ I have found these dataset in research papers.
 
 	<http://sillok.history.go.kr/main/main.do>
 
+* OpenSubtitles
+
+	<http://opus.nlpl.eu/OpenSubtitles2018.php>
+
+
 ### Categorical & Topic modeling
 
 * 20 Newsgroups
